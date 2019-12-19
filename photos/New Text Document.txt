@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Photos </title>
+</head>
+<body>
+  <h1> Here are some pictures that I like: </h1>
+
+  
+  <h2> This is my favorite album: </h2>
+  <img src="sea.jpg" alt="uhhhhhhhh cover artwork" >
+<h3> i like the artwork quite a bit</h3>
+
+  <h2> A picture of Jeff Mangum </h2>
+   
+<img src="jeff.jpg" alt="Jeff Mangum">
+<h3> he's very handsome uwu </h3>
+ 
+  <h2> Thom Yorke </h2>
+ 
+<img src="thom.jpg" alt="guy screaming">
+ <h3> Me when my mom doesnt let me hangout with my friends</h3>
+  <h2>Marilyn Monroe</h2>
+
+<img src="m.jpg" alt "Marilyn Monroe">
+<h3> image was created by Andy Warhol</h3>
+
+
+  
+  <h2> And Andy Warhol </h2>
+
+<img src="danny.jpg" alt= "Andy Warhol">  
+<h3> incredible mind</h3>
+  
+</body>
+</html>
